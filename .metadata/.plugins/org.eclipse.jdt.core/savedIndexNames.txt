@@ -1,0 +1,6 @@
+INDEX VERSION 1.127+D:\androidtools\routing\.metadata\.plugins\org.eclipse.jdt.core
+3682306256.index
+3246526955.index
+1284074322.index
+4246306406.index
+3163829286.index
